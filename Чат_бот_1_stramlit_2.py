@@ -1,6 +1,6 @@
-pip install streamlit transformers
-import streamlit as st
-from transformers import pipeline, AutoTokenizer, AutoModelForQuestionAnswering
+
+#import streamlit as st
+#from transformers import pipeline, AutoTokenizer, AutoModelForQuestionAnswering
 
 st.title("QA Chatbot with DistilBERT")
 
